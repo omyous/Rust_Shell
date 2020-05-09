@@ -1,3 +1,5 @@
+Binome : Omar Yousfi / Lin Diaxuan
+
 # Rust_Shell
 
 # Questions : Rappels de Rust, généralités
